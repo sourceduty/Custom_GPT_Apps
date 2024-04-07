@@ -8,7 +8,7 @@ Imagine a future where custom GPTs are seamlessly integrated and organized to ca
 +-----------------------------------------------------+
 |  Custom GPT 1   |  Custom GPT 2   |  Custom GPT 3   |
 +-----------------+-----------------+-----------------+
-|  Custom GPT 4   |  Custom GPT 5   |  Custom GPT 4   |
+|  Custom GPT 4   |  Custom GPT 5   |  Custom GPT 6   |
 +-----------------+-----------------+-----------------+
 ```
 
