@@ -18,5 +18,10 @@ But it's not just about convenience. By consolidating related models, we foster 
 
 This concept isn't just a vision; it's a roadmap towards unlocking the full potential of custom GPTs. Through strategic organization and integration, this concept empowers users with unprecedented efficiency and effectiveness in their endeavors.
 
+#
+### Related Links
+
+[Combination Custom GPT](https://github.com/sourceduty/Combination_Custom_GPT)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
