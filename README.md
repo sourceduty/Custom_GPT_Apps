@@ -33,7 +33,7 @@ Beyond convenience, SuperGPTs create vibrant communities of knowledge and collab
 
 #
 
-> Alex: "*Thanks for supporting this repo*"
+> Alex: "*Thanks for supporting this repo.*"
 
 > "*This concept of custom GPT clusters or apps is an incredible step forwards for AI, and it was made from inside the AI revolution.*"
 
