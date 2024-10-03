@@ -39,6 +39,11 @@ SuperGPTs represent the next evolution in artificial intelligence, designed to c
 Beyond convenience, SuperGPTs create vibrant communities of knowledge and collaboration within each domain. By consolidating related models, these AI clusters encourage the exchange of insights and ideas among peers, promoting a culture of continuous learning and improvement. Professionals can connect, share experiences, and contribute to the refinement of AI tools, ensuring that the technology evolves in line with real-world needs and challenges. This collaborative environment accelerates the advancement of AI technology, making SuperGPTs a catalyst for progress and transformation in multiple fields, ultimately shaping the future of how we interact with and benefit from artificial intelligence.
 
 #
+### Computing Power
+
+Additional computing power would likely be required when implementing Custom GPT applications as outlined in this repository. These applications aggregate and classify multiple specialized GPT models tailored for specific industries or tasks. Each model requires significant computational resources, particularly for training and fine-tuning, as well as for real-time inference when handling large-scale data or complex queries. Therefore, as the number of models increases, so does the demand for processing power, memory, and storage. To ensure efficient execution and scalability, advanced hardware such as high-performance GPUs, TPUs, or distributed cloud systems would be necessary. These resources would support both the parallel processing of multiple GPT models and the high-throughput demands expected in domain-specific tasks. In environments where accuracy and speed are critical, investing in robust computing infrastructure is crucial to meet the operational requirements of these specialized applications.
+
+#
 
 > Alex: "*Thanks for supporting this repo.*"
 
