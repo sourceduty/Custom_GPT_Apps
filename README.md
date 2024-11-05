@@ -86,7 +86,9 @@ This limitation is especially notable for those aiming to embed custom GPTs into
 <br>
 [xAI](https://github.com/sourceduty/AI)
 <br>
-[Cluster Computing](https://github.com/sourceduty/Cluster_Computing/tree/main)
+[Cluster Computing](https://github.com/sourceduty/Cluster_Computing)
+<br>
+[Clustered](https://github.com/sourceduty/Cluster_GPTs)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
